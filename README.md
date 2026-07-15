@@ -3,7 +3,7 @@
 
 An interactive, dark-themed hacking terminal web application that uses open-source AI to review and mock HTML layouts. Built with semantic HTML, CSS, and vanilla client-side JavaScript.
 
-![License](https://img.shields.io/badge/license-Apache 2.0)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ---
 
